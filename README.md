@@ -83,9 +83,7 @@ Design and implement a private cloud infrastructure using **DevStack** (an OpenS
 
 ## System Architecture Diagram
 
-![System Architecture](https://via.placeholder.com/800x400.png?text=System+Architecture+Diagram)
-
-_Figure 1: Architecture of Private Cloud with DevStack and Web App Deployment_
+![image](https://github.com/user-attachments/assets/3ed9ae77-8c3e-45be-ae16-44ab9b29772a)
 
 ---
 
@@ -119,9 +117,7 @@ _Figure 1: Architecture of Private Cloud with DevStack and Web App Deployment_
 
 ### VM Resource Utilization Over Time
 
-![Resource Utilization Graph](https://via.placeholder.com/700x350.png?text=CPU+and+RAM+Utilization+Graph)
-
-_Figure 2: CPU and RAM utilization of VMs during app deployment._
+![image](https://github.com/user-attachments/assets/e43ce628-75d4-4a9c-95e7-610528637bcc)
 
 - Initial CPU usage spikes during VM boot and app deployment.
 - Stable usage observed during steady app operation.
@@ -129,9 +125,7 @@ _Figure 2: CPU and RAM utilization of VMs during app deployment._
 
 ### Network Traffic Monitoring
 
-![Network Traffic Chart](https://via.placeholder.com/700x350.png?text=Network+Traffic+Graph)
-
-_Figure 3: Network traffic analysis on private cloud during web app usage._
+![image](https://github.com/user-attachments/assets/dd839c51-8395-4bd7-b309-ee301d489c80)
 
 - Shows inbound/outbound data packets per second.
 - Confirms efficient network bandwidth usage during peak requests.
@@ -145,7 +139,7 @@ _Figure 3: Network traffic analysis on private cloud during web app usage._
 | Storage       | 15%                 |
 | Network       | 10%                 |
 
-_Figure 4: Resource allocation distribution in the private cloud._
+![image](https://github.com/user-attachments/assets/393589e7-3fc3-45c8-a727-5f7c145607ce)
 
 ---
 
